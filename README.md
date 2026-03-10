@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Gilmar Paiva Campos
 
-<!--
-**Gilmar655/Gilmar655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento de Sistemas  
+📚 Atualmente aprendendo programação e tecnologia  
+🚀 Buscando evoluir como desenvolvedor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Tecnologias que estou estudando
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de **Desenvolvimento de Sistemas** e estou iniciando minha jornada na programação.  
+Tenho interesse em aprender cada vez mais sobre **Python, desenvolvimento web e tecnologia**.
+
+Este perfil no GitHub faz parte da minha evolução como desenvolvedor.
